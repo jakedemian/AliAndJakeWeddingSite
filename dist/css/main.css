@@ -5,6 +5,7 @@
   background: url(../../assets/mainpic.jpg) no-repeat center center fixed;
   background-size: cover;
   padding-top: 130px;
+  min-height: 1080px;
 }
 
 #header #nav {
